@@ -1,0 +1,8 @@
+shell = "zsh"
+
+[window]
+dynamic_padding = true
+
+[font]
+size = 9.0
+
