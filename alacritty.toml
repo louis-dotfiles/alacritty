@@ -1,8 +1,16 @@
+# https://alacritty.org/config-alacritty.html
+
 shell = "zsh"
 
 [window]
 dynamic_padding = true
 
 [font]
-size = 9.0
+size = 9.5
+normal = { family = "Hack Nerd Font Mono", style = "Regular" }
+bold = { family = "Hack Nerd Font Mono", style = "Bold" }
+italic = { family = "Hack Nerd Font Mono", style = "Italic" }
+bold_italic = { family = "Hack Nerd Font Mono", style = "Bold Italic" }
+
+
 
