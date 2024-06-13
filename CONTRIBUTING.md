@@ -6,10 +6,21 @@ General information about the configuration if you plan on modifying it.
 
 ### Fonts
 
+
+#### Installation
+
 You can find a lot of ["Nerd fonts"](https://www.nerdfonts.com/) in the Arch packages repo:
 ```sh
 pacman -Ss nerd
 ```
+
+Or you can use [getNF](https://github.com/getnf/getnf):
+```sh
+yay -S getnf
+getnf
+```
+
+#### Configuration
 
 List all installed fonts:
 ```sh
